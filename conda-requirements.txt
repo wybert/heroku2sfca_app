@@ -1,0 +1,7 @@
+panel
+holoviews
+geoviews
+pandas
+hvplot
+notebook
+jupyter
